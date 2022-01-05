@@ -11,7 +11,7 @@ require (
 	github.com/cybozu-go/aptutil v1.4.2-0.20200413001041-3f82d8384481
 	github.com/docker/docker v20.10.3+incompatible
 	github.com/dustin/go-humanize v1.0.0
-	github.com/fatih/color v1.10.0
+	github.com/fatih/color v1.13.0
 	github.com/go-git/go-git/v5 v5.1.0
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-github v17.0.0+incompatible
