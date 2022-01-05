@@ -29,7 +29,7 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.0
 	github.com/tchap/zapext v1.0.0
-	github.com/ulikunitz/xz v0.5.8
+	github.com/ulikunitz/xz v0.5.10
 	github.com/xor-gate/ar v0.0.0-20170530204233-5c72ae81e2b7
 	go.uber.org/zap v1.16.0
 	golang.org/x/crypto v0.0.0-20210220033148-5ea612d1eb83
