@@ -5,7 +5,7 @@ go 1.16
 require (
 	cloud.google.com/go/datastore v1.1.0
 	cloud.google.com/go/storage v1.10.0
-	github.com/bazelbuild/buildtools v0.0.0-20211007154642-8dd79e56e98e
+	github.com/bazelbuild/buildtools cdedcc0318b9
 	github.com/cheggaaa/pb/v3 v3.0.5
 	github.com/coreos/go-oidc v2.2.1+incompatible
 	github.com/cybozu-go/aptutil v1.4.2-0.20200413001041-3f82d8384481
