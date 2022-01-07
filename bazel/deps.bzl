@@ -101,7 +101,7 @@ def enkit_deps():
     if "com_google_absl" not in excludes:
         http_archive(
             name = "com_google_absl",
-            urls = ["https://github.com/abseil/abseil-cpp/archive/98eb410c93ad059f9bba1bf43f5bb916fc92a5ea.zip"],
-            strip_prefix = "abseil-cpp-98eb410c93ad059f9bba1bf43f5bb916fc92a5ea",
-            sha256 = "aabf6c57e3834f8dc3873a927f37eaf69975d4b28117fc7427dfb1c661542a87",
+            urls = ["https://github.com/abseil/abseil-cpp/archive/78f9680225b9792c26dfdd99d0bd26c96de53dd4.zip"],
+            strip_prefix = "abseil-cpp-78f9680225b9792c26dfdd99d0bd26c96de53dd4",
+            sha256 = "cf09ec22ff2317bae91273b286d4b813400d42e3c63db417ab8e1813daff6c33",
         )
